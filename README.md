@@ -2,14 +2,9 @@
 
 This repository contains the datasets and SQL files used for Homework 1 and the term project for the Data Engineering course. The goal of the project is to work with relational data, focusing on importing, analyzing, and performing operations on datasets using SQL.
 
-## Project Overview
 
-The main objectives of this project include:
-- Importing and managing a relational dataset into a MySQL instance.
-- Performing analysis and queries to explore the relationships between tables.
-- Preparing data for further analysis and the term project.
 
-### Datasets
+## Datasets
 
 The following datasets have been included in the project and are located in the `HW1` folder:
 - **trans-atlantic-slave-dataset.csv**: A dataset that contains information related to the Trans-Atlantic slave trade, including voyage details, locations, and captives' data.
@@ -17,7 +12,7 @@ The following datasets have been included in the project and are located in the 
 - **AfricanNamesDatabase.csv**: This dataset includes names and details of enslaved individuals, providing additional context for the trans-Atlantic slave voyages.
 - **worldcities.csv**: A dataset containing city names and their corresponding latitude and longitude for potential mapping and geographic analysis.
 
-### Repository Structure
+## Repository Structure
 
 ```markdown
 ├── HW1/
